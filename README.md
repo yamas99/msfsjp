@@ -8,7 +8,7 @@ Microsoft Flight Simulator 2020の日本語化プロジェクトです。本プ�
 このプロジェクトに関するフィードバック、意見、質問、翻訳などありましたらこちらGithub掲示板、もしくはSteamページのほうでお願いします。一緒に日本語化を目指しましょう！
 
 
-[<u>インストール前に知っておくべきこと</u>]<br>
+<br>[インストール前に知っておくべきこと]<br>
 -Microsoft Flight Simulator 2020（以下MSFS)はXboxストア、およびSteamでの配布版が存在します。本プロジェクトファイルは現在Steam版のみの対応となっております。基本的にファイル自体は同じだと思うのでファイルを入れるディレクトリーが分かっていればXboxの方も使用できるはずです。Xbox版のフォルダー構成が分かり次第更新します。<br>
 
 -MSFSにはStandard版、Deluxe版、Premium Deluxe版が存在し、各版で同封されている航空機が違います。現時点で航空機データには手を付けていないのであまり関係はありませんが、対応はStandard版のみとします。<br>
@@ -16,7 +16,7 @@ Microsoft Flight Simulator 2020の日本語化プロジェクトです。本プ�
 -一応ですが使用は自己責任でお願いします。ゲーム自体の動作に影響を及ぼすファイル（MOD、チート等）はないのでそこらへんは大丈夫かと。<br>
 
 
-[<u>インストール手順</u>]<br>
+<br>[インストール手順]<br>
 1.zipファイルを解凍。中には２つのフォルダーが入っています。フォルダー内の構成は済んでいるので<b>絶対に</b>ファイルを取り出さないでください。この先でややこしくなります。<br>
 2.エクスプローラーを開き、上ボックスに%appdata%と入力し、Roamingというフォルダーにたどり着きます。<br>
 3."Microsoft Flight Simulator"フォルダーをRoamingフォルダーにコピペするだけでOKです。ファイルはすべて上書きを選択してください。<br>
@@ -25,14 +25,18 @@ Microsoft Flight Simulator 2020の日本語化プロジェクトです。本プ�
 6.インストール終了<br>
 
 
-[<u>動作不良時の対処法</u>]<br>
+<br>[動作不良時の対処法]<br>
 同封の"backup"フォルダーには上記で上書きしたファイルの元ファイルがバックアップされています。フォルダー構成は全く同じなので動作不良の場合、もしくはアンインストールする場合はこちらのファイルをインストール時と同様に上書きすれば元に戻ります。
 
 
-[<u>よくあると思われる質問</u>]<br>
+<br>[よくあると思われる質問]<br>
 Q:上書きするファイルの正体ってなんですか？怪しいファイルとかですか？<br>
-A:配布しているのはロケールパッケージファイルで、ただゲーム中のテキストを全て入れているファイルです。それの日本語版。
+A:配布しているのはロケールパッケージファイルで、ただゲーム中のテキストを全て入れているファイルです。それの日本語版。<br><br>
+Q:ファイルの名前が「en-US」になっているのはなぜ？<br>
+A:本来「ja-JP」にするべきなのですが、新しい言語パックを認識させるコードを変更するまでは既存のパックを上書きするしかありませんでした（en-USを上書きするのでインストール後は英語が利用不可）。将来的には「ja-JP.locPak」のファイルを何も上書きせずにインストールすることを目指しています。
 
 
-[最後に]
-このプロジェクトファイル内容物の著作権はすべて開発元Asobo Studio、発売元Xbox Game Studio、Microsoft社とその他が有しています。
+<br>[最後に]<br>
+このプロジェクトファイル内容物の著作権はすべて開発元Asobo Studio、発売元Xbox Game Studio、Microsoft社とその他が有しています。<br><br>
+ファイルの直転載はお控えください。ブログ等にリンクしたい場合はこのGitHubページのほうを貼っていただければユーザーのコメント等で品質向上に直結します。<br><br>
+英語：This package contains Japanese-translated en-US.locPak files that users can overwrite over their existing program to enjoy MSFS in Japanese. Please do this at your own risk. Also, when sharing this package please refrain from directly reuploading the mod files. It helps to get users interacted and leave feedback here on this GitHub page. Thank you.
