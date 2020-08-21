@@ -5,7 +5,7 @@ Microsoft Flight Simulator 2020の日本語化プロジェクトです。本プ�
 <br>更新日/Updated: 2020-08-21
 
 
-このプロジェクトに関するフィードバック、意見、質問、翻訳などありましたらこちらGithub掲示板、もしくはSteamページのほうでお願いします。一緒に日本語化を目指しましょう！
+このプロジェクトに関するフィードバック、意見、質問、翻訳などありましたらこちらGithub掲示板、もしくはDiscordサーバーのほうでお願いします。一緒に日本語化を目指しましょう！
 
 
 <br>[インストール前に知っておくべきこと]<br>
@@ -40,3 +40,7 @@ A:本来「ja-JP」にするべきなのですが、新しい言語パックを�
 このプロジェクトファイル内容物の著作権はすべて開発元Asobo Studio、発売元Xbox Game Studio、Microsoft社とその他が有しています。<br><br>
 ファイルの直転載はお控えください。ブログ等にリンクしたい場合はこのGitHubページのほうを貼っていただければユーザーのコメント等で品質向上に直結します。<br><br>
 英語：This package contains Japanese-translated en-US.locPak files that users can overwrite over their existing program to enjoy MSFS in Japanese. Please do this at your own risk. Also, when sharing this package please refrain from directly reuploading the mod files. It helps to get users interacted and leave feedback here on this GitHub page. Thank you.
+
+<br>[プロジェクトリンク]<br>
+GitHub: <a href="http://www.github.com/Shakekan/msfsjp">github.com/Shakekan/msfsjp</a><br>
+Discord: <a href="https://discord.gg/SE6n7W">discord.gg/SE6n7W</a><br>
