@@ -16,6 +16,7 @@ The project adheres to [Semantic Versioning].
 - 操作設定画面
 - 飛行コンディション画面
 - ゲーム内UI（ポップアップ等）
+- マーケットプレイスUI
 
 ## [0.1] - 2020-08-21
 ### 追加要素
