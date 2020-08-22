@@ -1,9 +1,9 @@
 # Change Log
-All notable changes to this project will be documented in this file.
-このプロジェクトの主なる変更箇所を以下に記します。
+All notable changes to this project will be documented in this file.<br>
+このプロジェクトの主なる変更箇所を以下に記します。<br><br>
 
-The project adheres to [Semantic Versioning].
-このプロジェクトは[Semantic Versioning]を採用しています。
+The project adheres to [Semantic Versioning].<br>
+このプロジェクトは[Semantic Versioning]を採用しています。<br><br>
 
 ## [Unreleased]
 ### 追加要素
