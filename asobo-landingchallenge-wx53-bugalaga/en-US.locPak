@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Bugalaga_Briefing1": "航空マニアの間ではインドネシアのパプア島はメンテナンス不十分な山脈空港があることで知られており、これらの空港は島民達にとっては外世界との唯一の連絡手段となることも。これは急斜面の短い滑走路があるブーガラーガでも言えることです。",
+      "MENU.LANDINGCHALLENGE.NAME_BUGALAGA": "ブーガラーガ",
+      "MENU.LANDINGCHALLENGE.NAME_BUGALAGA_Descr": "WX53、 インドネシア"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Aspen_Briefing1": "アスペン\/ピトキンカウンティ―空港はサーディーフィールドとも呼ばれ、コロラドロッキー山脈に位置する高度の地方空港です。ランウェイ３３への着陸は周辺の山脈地帯での急降下を要し、その途中で悪天候に見舞われる可能性があります。",
+      "MENU.LANDINGCHALLENGE.NAME_ASPEN": "アスペン",
+      "MENU.LANDINGCHALLENGE.NAME_ASPEN_Descr": "KASE、 アメリカ合衆国"
+    }
+  }
+}
