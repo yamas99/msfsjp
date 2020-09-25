@@ -2,11 +2,11 @@
   "LocalisationPackage": {
     "Language": "en-US",
     "Strings": {
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "クールシュヴェル",
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "LFLJ、 フランス",
-      "MENU.LIVE_EVENT_BRIEFING": "２週間の間、時間制限付き着陸チャレンジをクリアしリーダーボード上位を目指しましょう！ <br> <br> クールシュヴェル飛行場は蘭アルプスのスキーリゾート、クールシュヴェルの専用飛行場です。飛行場の滑走路は非常に短く、周辺の山脈により着陸復行（ゴーアラウンド）は出来ません。",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "ニース",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "LFMN、 フランス",
+      "MENU.LIVE_EVENT_BRIEFING": "２週間の間、時間制限付き着陸チャレンジをクリアしリーダーボード上位を目指しましょう！ <br> <br> コート ダジュール空港は仏ニースの南西、3.2海里に位置する国際空港です。リヴィエラとモナコの玄関口となるここは、世界でも絶景で名高い着陸スポットです。アプローチ自体はは難しくありませんが、最後に滑走路22Rに機首を合わせ、スムーズに着陸することが必要となります。",
       "MENU.LIVE_EVENT_DESC": "現在のライブイベント - 着陸チャレンジ ",
-      "MENU.LIVE_EVENT_TITLE": "クールシュヴェル"
+      "MENU.LIVE_EVENT_TITLE": "ニース"
     }
   }
 }
