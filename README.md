@@ -2,7 +2,7 @@
 Microsoft Flight Simulator 2020の日本語化プロジェクトです。本プロジェクトは２０２０年８月１８日発売、Asobo Studio開発のMicrosoft Flight Simulator 2020用、非公式日本語化パッチを製作するために作られました。以下重要な情報満載なのでダウンロード前にお読みいただければ幸いです。
 <br>Japanese translation locale packages for Microsoft Flight Simulator 2020.
 <br>製作者/Created by: Shakekan（しゃけ缶）
-<br>更新日/Updated: 2020-09-04
+<br>更新日/Updated: 2020-09-25
 
 
 このプロジェクトに関するフィードバック、意見、質問、翻訳などありましたらこちらGithub掲示板、もしくはDiscordサーバーのほうでお願いします。一緒に日本語化を目指しましょう！
