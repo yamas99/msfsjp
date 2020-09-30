@@ -19,6 +19,7 @@ The project adheres to [Semantic Versioning].<br>
 ### 追加要素
 - 公式JAPAN UPDATEへの対応
 - JAPAN UPDATEで追加された慶良間、諏訪之瀬島、八丈島の着陸チャレンジ翻訳
+- ライブイベント「TOUR OF JAPAN」情報翻訳
 - マーケットプレイスUIの翻訳
 
 ### 変更要素
