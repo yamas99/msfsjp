@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Suwanosejima_Briefing1": "吐噶喇（トカラ）列島で２番目に大きい諏訪之瀬島（すわのせじま）は何千年もの歴史がある活火山です。この島には２３００ｆｔ滑走路をもつ小さな飛行場があり、定期便は来ませんが、飛来してくるパイロットは日本有数の活火山の絶景を間近で楽しむことができます",
+      "MENU.LANDINGCHALLENGE.NAME_SUWANOSEJIMA": "諏訪之瀬島",
+      "MENU.LANDINGCHALLENGE.NAME_SUWANOSEJIMA_Descr": "ＲＪＸ８、 日本"
+    }
+  }
+}

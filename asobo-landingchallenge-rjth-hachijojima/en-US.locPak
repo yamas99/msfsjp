@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Hachijojima_Briefing1": "東京より南に１８７マイル、フィリピン海に浮かぶ八丈島は現役の活火山です。１９２６年に帝国海軍によって建設された八丈島空港は２つの山の間に位置しており、通常の着陸はあまり難しくはありません。しかし南から横風が吹くと、小回りが利く Ａ３２０ＮＥＯ でも着陸はかなりの難易度になってきます。",
+      "MENU.LANDINGCHALLENGE.NAME_HACHIJOJIMA": "八丈島",
+      "MENU.LANDINGCHALLENGE.NAME_HACHIJOJIMA_Descr": "ＲＪＴＨ、 日本"
+    }
+  }
+}

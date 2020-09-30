@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Kerama_Briefing1": "日本列島の遠い南、沖縄を越した南にはパラダイスとも言っていい慶良間（ケラマ）諸島があります。\"Kerama Blue\" の美しい海で知られる外地島（ふかぢしま）には飛行場と鯨観測所しかありません。飛行場には２６１７ｆｔの短い滑走路があり、東シナ海から吹く突風と合わせるとアプローチと着陸の技量が試されます。 ",
+      "MENU.LANDINGCHALLENGE.NAME_KERAMA": "慶良間",
+      "MENU.LANDINGCHALLENGE.NAME_KERAMA_Descr": "ＲＯＫＲ、 日本"
+    }
+  }
+}
