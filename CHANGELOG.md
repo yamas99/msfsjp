@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.<br>
 このプロジェクトの主なる変更箇所を以下に記します。<br><br>
 
 The project adheres to [Semantic Versioning].<br>
-このプロジェクトは[Semantic Versioning]を採用しています。<br><br>
+このプロジェクトは[セマンティックバージョニング]を使用しています。<br><br>
 
 ## [Unreleased]
 ### 追加要素
@@ -14,6 +14,15 @@ The project adheres to [Semantic Versioning].<br>
 ### 変更要素
 - 着陸チャレンジの各ページ翻訳
 - ゲーム内ポップアップ
+
+## [0.2.3] - 2020-10-21
+### 追加要素
+- 公式パッチv1.9.5.0への対応
+
+### 変更要素
+- v0.2.1で消えていた実績情報の再追加
+- 一部天気メニューの誤字修正
+- 他一部誤字修正
 
 ## [0.2.2] - 2020-09-30
 ### 追加要素
