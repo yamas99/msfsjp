@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Lukla_Briefing1": "テンジン ヒラリー空港は東ネパールに位置する飛行場で、エベレストを目指す観光客で毎年賑わっています。パイロットにとっては着陸が超難関であることで知られるこの飛行場では強風、低雲、端には石壁が待つ短距離滑走路が待ち受け、ゴーアラウンドもできません。 ",
+      "MENU.LANDINGCHALLENGE.NAME_LUKLA": "ルクラ",
+      "MENU.LANDINGCHALLENGE.NAME_LUKLA_Descr": "ＶＮＬＫ、 ネパール"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Toncontin_Briefing1": "トンコンティン国際空港はホンデュラスのテグシガルパから４マイル離れた軍民共用空港です。空港周辺の山間部と短い滑走路のあるこの空港は、悪天候時は特に、十分着陸が難しい空港といえるでしょう。",
+      "MENU.LANDINGCHALLENGE.NAME_TEGUCIGALPA": "テグシガルパ",
+      "MENU.LANDINGCHALLENGE.NAME_TEGUCIGALPA_Descr": "ＭＨＴＧ、 ホンデュラス"
+    }
+  }
+}

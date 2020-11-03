@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Saba_Briefing1": "オランダ領サバ島に位置するファンチョ Ｅ ヨラウスクィン飛行場は世界一短い滑走路を有しており、全長１３１２フィートしかありません。おまけに滑走路両端が崖になっており、着陸を試みるパイロットは恐怖を覚えます。",
+      "MENU.LANDINGCHALLENGE.NAME_SABA": "サバ",
+      "MENU.LANDINGCHALLENGE.NAME_SABA_Descr": "ＴＮＣＳ、 オランダ領カリブ"
+    }
+  }
+}

@@ -2,11 +2,11 @@
   "LocalisationPackage": {
     "Language": "en-US",
     "Strings": {
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "Tour of Japan",
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "RJFU、 日本",
-      "MENU.LIVE_EVENT_BRIEFING": "世界でも類を見ない日本の絶景を長崎から東京までのこのフライトで楽しみましょう。<br> <br> 活火山地帯から広い荒野、古代の寺から近未来的な都心まで様々な景色を見るフライトです。有名な富士山や人工島の川崎、レインボーブリッジや世界最大の都市圏、東京のビル群の上を飛ぶことになります。<br> <br> このフライトでは Beechcraft King Air 350i を使用し、九州、長崎空港を出発します。 そこから火山山脈に沿い、北東へ向かった飛行。最後は東京都心にある羽田空港に着陸します。",
-      "MENU.LIVE_EVENT_DESC": "ディスカバリーフライト - 長崎から羽田空港",
-      "MENU.LIVE_EVENT_TITLE": "Tour of Japan"
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "ハロウィン",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "ＬＲＴＯ、 ルーマニア",
+      "MENU.LIVE_EVENT_BRIEFING": "ギザギザと尖るカルパティア山脈の尾根を越え、トランシルヴァニアの古城や砦のその先には闇に包まれたエアドローム、ピアトラ クライウルイ飛行場があなたを待っています。 <br> <br> この飛行場にたどり着くにはルーマニアの田舎上空、通称「禁断の空」を悪天候の中でアプローチする必要があります。",
+      "MENU.LIVE_EVENT_DESC": "現在の注目イベント - 着陸チャレンジ ",
+      "MENU.LIVE_EVENT_TITLE": "ハロウィン"
     }
   }
 }
