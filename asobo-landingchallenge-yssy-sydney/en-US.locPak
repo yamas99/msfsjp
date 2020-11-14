@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LC_Sydney_Briefing1": "ボタニー湾の大洋上に位置するシドニー キングスフォード スミス国際空港は、世界で最も長く継続して運営されている商業飛行場の一つです。滑走路１６Ｒへのアプローチは比較的簡単ですが、このオーストラリア最大級の空港で最高の条件のもとでＡ３２０を着陸させることは、ほとんどのパイロットにとって挑戦的なことです。",
+      "MENU.LANDINGCHALLENGE.NAME_SYDNEY": "シドニー",
+      "MENU.LANDINGCHALLENGE.NAME_SYDNEY_Descr": "ＹＳＳＹ、 オーストラリア"
+    }
+  }
+}

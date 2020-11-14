@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "LLANADAGRANDE_BRIEFING": "ラナダ グランデ空港はチリのロスラゴス地方にある小さな公共飛行場です。規模が小さいため主に小型機に適しており、山間部に位置するため未経験パイロットにとってはアプローチが困難です。",
+      "LLANADAGRANDE_NAME": "ラナダ グランデ",
+      "LLANADAGRANDE_NAME_Descr": "ＳＣＬＤ、 チリ"
+    }
+  }
+}

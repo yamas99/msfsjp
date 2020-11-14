@@ -2,11 +2,11 @@
   "LocalisationPackage": {
     "Language": "en-US",
     "Strings": {
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "ハロウィン",
-      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "ＬＲＴＯ、 ルーマニア",
-      "MENU.LIVE_EVENT_BRIEFING": "ギザギザと尖るカルパティア山脈の尾根を越え、トランシルヴァニアの古城や砦のその先には闇に包まれたエアドローム、ピアトラ クライウルイ飛行場があなたを待っています。 <br> <br> この飛行場にたどり着くにはルーマニアの田舎上空、通称「禁断の空」を悪天候の中でアプローチする必要があります。",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "ジャクソン",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "ＫＪＡＣ、 アメリカ合衆国",
+      "MENU.LIVE_EVENT_BRIEFING": "数週間の間、時間制限付き着陸チャレンジをクリアしリーダーボード上位を目指しましょう！ <br> <br> ワイオミング州の壮大なティトン山脈のふもとにあるジャクソンホール空港。この飛行場は誰もを魅了するような環境に位置していますが、高度が高く、滑走路が短く、天候の変化が激しいことから、パイロットは細心の注意を払う必要があります。",
       "MENU.LIVE_EVENT_DESC": "現在の注目イベント - 着陸チャレンジ ",
-      "MENU.LIVE_EVENT_TITLE": "ハロウィン"
+      "MENU.LIVE_EVENT_TITLE": "ジャクソン"
     }
   }
 }

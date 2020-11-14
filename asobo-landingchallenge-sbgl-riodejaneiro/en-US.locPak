@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "RIODEJANEIRO_BRIEFING": "リオデジャネイロ アントニオ カルロス ジョビン\/ガレオン国際空港はグアナバラ湾に浮かぶ島にあるリオの主要空港であり、ブラジルの玄関口でもあります。ランウェイ３３の絶景アプローチの難易度は低いが、Ａ３２０を使った完璧な着陸はそう簡単ではありません。",
+      "RIODEJANEIRO_NAME": "リオデジャネイロ",
+      "RIODEJANEIRO_NAME_Descr": "ＳＢＧＬ、 ブラジル"
+    }
+  }
+}
